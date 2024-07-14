@@ -16,15 +16,6 @@ cd project1
 
 cargo build 
 
-# Output
-#   Compiling data-with-rust v0.1.0 (/Users/karim/tests/project1)
-#    Finished dev [unoptimized + debuginfo] target(s) in 0.51s
-
-./target/debug/data-with-rust
-
-# Output
-# Hello, world! 
-
 ## Executando meu arquivo Rust
 
 cargo run 
