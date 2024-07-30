@@ -1,4 +1,4 @@
-workspace = { members = [ "error_handling", "error_handling_2", "erros_handling","pattern_matching"] }
+workspace = { members = [ "error_handling","pattern_matching"] }
 [package]
 name = "day4"
 version = "0.1.0"
