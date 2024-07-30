@@ -1,0 +1,9 @@
+workspace = { members = [ "loop_count_break", "loop_count_break_no_for_loop","loops", "loops_list"] }
+[package]
+name = "day3"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
